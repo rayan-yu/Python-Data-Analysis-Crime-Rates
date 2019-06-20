@@ -1,2 +1,2 @@
 # Crime-Rates-Data-Analysis
-Data structure analysis and visualization of crimes in Sacramento in January 2006 
+Pandas and numPy data structure analysis and visualization of the rates of various crimes in Sacramento in January 2006 
